@@ -1,0 +1,17 @@
+{
+  "name": "dev.markasaad.volt.prediction",
+  "version": "0.0.1",
+  "displayName": "VoltPrediction",
+  "description": "Client-side Prediction for Unity's NetCode for GameObjects package.",
+  "repository": "github:voltonik/VoltPrediction",
+  "keywords": [
+    "unity",
+    "netcode",
+    "client-side prediction"
+  ],
+  "author": {
+    "name": "Mark Asaad",
+    "email": "markasaadramzy@gmail.com",
+    "url": "https://www.markasaad.dev"
+  }
+}
