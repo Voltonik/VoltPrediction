@@ -4,6 +4,10 @@
   "displayName": "VoltPrediction",
   "description": "Client-side Prediction for Unity's NetCode for GameObjects package.",
   "repository": "github:voltonik/VoltPrediction",
+  "dependencies": {
+    "com.unity.netcode.gameobjects": "",
+    "com.unity.multiplayer.playmode": ""
+  },
   "keywords": [
     "unity",
     "netcode",
